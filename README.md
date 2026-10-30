@@ -1,44 +1,45 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="Ptech" width="100%">
+  <img src="assets/identity/banner.png" alt="Ptech" width="100%">
 </p>
 
 <p align="center">Registro da trajetória acadêmica, palestras e atividades do programa P-Tech.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="P-Tech · HTML · CSS" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <a id="explore-o-projeto"></a>
 
-![Explore o projeto](assets/docs/section-01.svg)
+## Por onde começar
 
-![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-<table width="100%">
-<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
-<tr><td><strong>Apresentação</strong></td><td>Página inicial do portfólio acadêmico.</td><td><a href="Portfolio-PTECH-main/index.html">Abrir apresentação →</a></td></tr>
-<tr><td><strong>Atividades</strong></td><td>Página dedicada ao programa P-Tech.</td><td><a href="Portfolio-PTECH-main/ptech.html">Abrir atividades →</a></td></tr>
-<tr><td><strong>Registros</strong></td><td>Fotografias e registros das atividades.</td><td><a href="Portfolio-PTECH-main/img/P-tech">Abrir registros →</a></td></tr>
-</table>
+- **[Apresentação](Portfolio-PTECH-main/index.html)** — Página inicial do portfólio acadêmico.
+- **[Atividades](Portfolio-PTECH-main/ptech.html)** — Página dedicada ao programa P-Tech.
+- **[Registros](Portfolio-PTECH-main/img/P-tech)** — Fotografias e registros das atividades.
+
 
 <a id="visão-geral"></a>
 
-![Visão geral](assets/docs/section-02.svg)
+## Visão geral
 
 A interface combina folhas de estilo dedicadas (ptech.css e style.css), galeria organizada por datas de eventos (img/P-tech/) e versão publicada na nuvem via **Netlify**.
 
 <a id="recursos"></a>
 
-![Recursos](assets/docs/section-03.svg)
+## Recursos
 
-| Recurso | Como funciona |
-|---|---|
-| Linha do tempo de eventos | Registro visual e descritivo dos encontros técnicos com empresas parceiras (Tegra, Eduzz, etc.) de abril/2023 a setembro/2024. |
-| Galeria cronológica (img/P-tech) | Acervo fotográfico e certificados organizados em subpastas datadas do (1) ao (11). |
-| Estilização modular | Separação entre estilos estruturais (style.css) e componentes específicos da vitrine P-Tech (ptech.css). |
-| Hospedagem contínua | Publicação acessível online em [ptecharthur.netlify.app](https://ptecharthur.netlify.app/). |
+**Linha do tempo de eventos**<br>
+Registro visual e descritivo dos encontros técnicos com empresas parceiras (Tegra, Eduzz, etc.) de abril/2023 a setembro/2024.
+
+**Galeria cronológica (img/P-tech)**<br>
+Acervo fotográfico e certificados organizados em subpastas datadas do (1) ao (11).
+
+**Estilização modular**<br>
+Separação entre estilos estruturais (style.css) e componentes específicos da vitrine P-Tech (ptech.css).
+
+**Hospedagem contínua**<br>
+Publicação acessível online em [ptecharthur.netlify.app](https://ptecharthur.netlify.app/).
 
 <details>
 <summary>Arquitetura</summary>
@@ -59,7 +60,7 @@ flowchart LR
 ```text
 Ptech/
 ├── assets/
-│   └── banner-v2.png               Banner do projeto
+│   └── identity/banner.png               Banner do projeto
 ├── Portfolio-PTECH-main/
 │   ├── css/                                Folhas de estilo ptech.css e style.css
 │   ├── img/P-tech/                         Registros dos 11 encontros e workshops (2023–2024)
@@ -72,7 +73,7 @@ Ptech/
 
 <a id="como-executar"></a>
 
-![Como executar](assets/docs/section-04.svg)
+## Como executar
 
 1. Acesse a versão online em **[ptecharthur.netlify.app](https://ptecharthur.netlify.app/)** ou clone o repositório:
    ```bash
@@ -80,7 +81,7 @@ Ptech/
    ```
 2. Abra Portfolio-PTECH-main/index.html diretamente no navegador.
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
