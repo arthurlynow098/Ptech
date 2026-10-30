@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/identity/banner.png" alt="Ptech" width="100%">
-</p>
+<p align="center"><img src="assets/ptech-banner.jpg" width="100%" alt="Ptech"></p>
 
 <p align="center">Registro da trajetória acadêmica, palestras e atividades do programa P-Tech.</p>
 
