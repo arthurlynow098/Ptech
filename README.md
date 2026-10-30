@@ -4,21 +4,33 @@
 
 <p align="center">Registro da trajetória acadêmica, palestras e atividades do programa P-Tech.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/P--Tech-C52E36?style=flat-square" alt="P-Tech">
-  <img src="https://img.shields.io/badge/HTML-24272E?style=flat-square" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-24272E?style=flat-square" alt="CSS">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="P-Tech · HTML · CSS" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Apresentação** | Página inicial do portfólio acadêmico. | [Abrir apresentação →](Portfolio-PTECH-main/index.html) |
+| **Atividades** | Página dedicada ao programa P-Tech. | [Abrir atividades →](Portfolio-PTECH-main/ptech.html) |
+| **Registros** | Fotografias e registros das atividades. | [Abrir registros →](Portfolio-PTECH-main/img/P-tech) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 A interface combina folhas de estilo dedicadas (ptech.css e style.css), galeria organizada por datas de eventos (img/P-tech/) e versão publicada na nuvem via **Netlify**.
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Recurso | Como funciona |
 |---|---|
@@ -46,7 +58,7 @@ flowchart LR
 ```text
 Ptech/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── Portfolio-PTECH-main/
 │   ├── css/                                Folhas de estilo ptech.css e style.css
 │   ├── img/P-tech/                         Registros dos 11 encontros e workshops (2023–2024)
@@ -57,7 +69,9 @@ Ptech/
 
 </details>
 
-## Como executar
+<a id="como-executar"></a>
+
+![Como executar](assets/docs/section-04.svg)
 
 1. Acesse a versão online em **[ptecharthur.netlify.app](https://ptecharthur.netlify.app/)** ou clone o repositório:
    ```bash
