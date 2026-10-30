@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de Ptech" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="Ptech" width="100%">
 </p>
-
-<h1 align="center">Ptech</h1>
 
 <p align="center">Registro da trajetória acadêmica, palestras e atividades do programa P-Tech.</p>
 
