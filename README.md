@@ -4,7 +4,7 @@
 
 <p align="center">Registro da trajetória acadêmica, palestras e atividades do programa P-Tech.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="P-Tech · HTML · CSS" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="P-Tech · HTML · CSS" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Apresentação** | Página inicial do portfólio acadêmico. | [Abrir apresentação →](Portfolio-PTECH-main/index.html) |
-| **Atividades** | Página dedicada ao programa P-Tech. | [Abrir atividades →](Portfolio-PTECH-main/ptech.html) |
-| **Registros** | Fotografias e registros das atividades. | [Abrir registros →](Portfolio-PTECH-main/img/P-tech) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Apresentação</strong></td><td>Página inicial do portfólio acadêmico.</td><td><a href="Portfolio-PTECH-main/index.html">Abrir apresentação →</a></td></tr>
+<tr><td><strong>Atividades</strong></td><td>Página dedicada ao programa P-Tech.</td><td><a href="Portfolio-PTECH-main/ptech.html">Abrir atividades →</a></td></tr>
+<tr><td><strong>Registros</strong></td><td>Fotografias e registros das atividades.</td><td><a href="Portfolio-PTECH-main/img/P-tech">Abrir registros →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
